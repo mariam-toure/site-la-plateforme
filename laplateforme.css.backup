@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color:antiquewhite;
+    height: 89px;
+    margin: 10px;
+    
+}
+
+.head-menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color:rgb(0, 0, 0);
+    text-decoration:antiquewhite;
+}
+.menu i{
+    float: right;
+    padding: right;
+}
+.menu i a{
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    background: cyan;
+    align-items: center;
+}
+
+.paragraphe image {}
+
+.paragraphe {
+    float: left;
+    background-color: #007d8b85;
+}
+.image {
+    float: right;
+    height: 50PX;
+    width: 50PX ;
+}
