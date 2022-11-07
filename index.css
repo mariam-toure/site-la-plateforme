@@ -1,0 +1,50 @@
+body{
+    
+    margin: 0px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    height: 89px;
+    background-color: darkgrey;
+}  
+
+
+ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}    
+
+.container > div {
+    width: 100%;
+    min-height: 300px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: space-around;
+
+}
+
+.child1{
+    background-color:azure;
+    border-radius: 50px;
+    
+    
+    
+
+
+   
+    
+
+}
